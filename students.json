@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "61adf9cafb5315389aaaf124"
+  },
+  "name": "Priyansh Tiwari",
+  "email": "Priyanshtiwari81@gmail.com",
+  "mobile": 7789632587,
+  "password": "$2a$10$LrNDdWsgfj71Y8UFUNRJ3.XhW0IX/k6Vi6BZU3JRjlgN2AlscI0/K",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61adfd895b388a264d395762"
+  },
+  "name": "vikki     ",
+  "email": "ashish12@gmail.com",
+  "mobile": 8874589856,
+  "password": "$2a$10$zqJNCA9s9WR4gZh9EkQ16uxNpo2pdkE4CZ0lY1eRhxxXKVUG.Uvma",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61adfdb25b388a264d395767"
+  },
+  "name": "ravi kumar      ",
+  "email": "bhuvan1234@gmail.com",
+  "mobile": 7789658569,
+  "password": "$2a$10$RwNBysoVcTexaUK8El/hGuAvJfwmxWjLKZFsZi7UmxdKs4HBZJsA2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61adfe0c5b388a264d39576c"
+  },
+  "name": "ashish jain      ",
+  "email": "ashishjain12@gmail.com",
+  "mobile": 7785696587,
+  "password": "$2a$10$gshXNydhtSAb1HkvUcJDWOXuBLzvz.xXOoIwzHA.nhYXG9srQcbWW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae00ad5b388a264d395771"
+  },
+  "name": "amitabh   ",
+  "email": "bhuvan1235@gmail.com",
+  "mobile": 7798587458,
+  "password": "$2a$10$FYrVdQt3UDZQLiG5q0J5d.a3LaLR5a7JbiilFM4qQ6vx6stBmLr4O",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae01345b388a264d395776"
+  },
+  "name": "shashi    ",
+  "email": "shashi123@gmail.com",
+  "mobile": 8858965854,
+  "password": "$2a$10$vewrf2QTeDVO3HFZ1VM7B.kOAe1Ru65cvhlBezI1YEuSJxwkDR9vK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae01ed5b388a264d39577f"
+  },
+  "name": "aadib     ",
+  "email": "adib12@gmail.com",
+  "mobile": 7787458965,
+  "password": "$2a$10$bEHYrJMp/7wjQHQkJrVFo.fPHuX77SWt0I9AWiw.55cDfELMpBBUG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae022a5b388a264d395784"
+  },
+  "name": "pankaj sharma",
+  "email": "pankaj123@gmail.com",
+  "mobile": 7787458569,
+  "password": "$2a$10$.T6EM281BMFtyK/1jCZ/BOyf9zS24CJkifQGq6gfM9m1GQ/gds43u",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae03e05b388a264d39578b"
+  },
+  "name": "Priyansh     ",
+  "email": "Priyanshtiri81@gmail.com",
+  "mobile": 7895463210,
+  "password": "$2a$10$2yVL2BlHXTQQ6BDer4GrROevjpFWo8IdfXJytu/WEURSvz6DjkHaa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae046d5b388a264d395790"
+  },
+  "name": "parveen        ",
+  "email": "py74237@gmail.com",
+  "mobile": 7986541430,
+  "password": "$2a$10$zM1dyOOEuEZ1TKFwNjjGUeW3Ze5NEWu8.D2.q9FKtI9shfeIztIlu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae072d5b388a264d395796"
+  },
+  "name": "Parveen     ",
+  "email": "ashish32@gmail.com",
+  "mobile": 7023394470,
+  "password": "$2a$10$MwdwRmWHst8RMZzZVnI/U.s9qpWiFaZQ9uH9AqUHIb5i7p4nD/eIS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aee4a4e8a106dcdaf520b8"
+  },
+  "name": "Priyansh Tiwari",
+  "email": "Priyanshtiwari811@gmail.com",
+  "mobile": 7785478569,
+  "password": "$2a$10$.2QW1SCEI.gbJ5pnkrF/TO7sA5Hsk3K40wCSvg3OnTr2fTWn.CrDW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aee673e8a106dcdaf520c9"
+  },
+  "name": "bhavya kaushik",
+  "email": "bhavya12@gmail.com",
+  "mobile": 7798217874,
+  "password": "$2a$10$5t4SPDTeieDKCNfR4VPCduC./zzBW6iPPeOmGuti7hWnQAqPwiIc.",
+  "__v": 0
+}]
